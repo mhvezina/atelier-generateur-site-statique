@@ -2,7 +2,7 @@
 # La page d’accueil
 
 # titre (apparaîtra dans l’onglet dans le navigateur)
-title: Accueil
+title: Bienvenue !
 
 # description brève de la page pour les moteurs de recherche
 description: | 
